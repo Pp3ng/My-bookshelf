@@ -7,13 +7,13 @@ This repository is a collection of books that I have read or plan to read while 
 - [Programming Languages](#programming-languages) (4 books)
 - [Algorithms and Data Structures](#algorithms-and-data-structures) (2 books)
 - [Software Engineering](#software-engineering) (3 books)
-- [Computer Systems and Architecture](#computer-systems-and-architecture) (5 books)
+- [Computer Systems and Architecture](#computer-systems-and-architecture) (6 books)
 - [Operating Systems](#operating-systems) (4 books)
-- [Networks and Security](#networks-and-security) (7 books)
+- [Networks and Security](#networks-and-security) (6 books)
 - [Databases](#databases) (1 book)
 - [UNIX and Linux Systems](#unix-and-linux-systems) (9 books)
 - [Web and Mobile Development](#web-and-mobile-development) (2 books)
-- [Other Topics](#other-topics) (3 books)
+- [Hardware and Embedded Systems](#hardware-and-embedded-systems) (3 book)
 
 ## Programming Languages
 
@@ -40,6 +40,7 @@ This repository is a collection of books that I have read or plan to read while 
 - [Computer Graphics-Principles And Practice](./Computer%20Graphics-Principles%20And%20Practice.pdf) - Foundations of computer graphics
 - [Programming Massively Parallel Processors](./Programming%20Massively%20Parallel%20Processors.pdf) - CUDA programming and GPU architecture
 - [Compilers Principles Techniques and Tools](./Compilers%20Principles%20Techniques%20and%20Tools.pdf) - The "Dragon Book" on compiler design
+- [Distributed systems-Concepts and Design](./Distributed%20systems-Concepts%20and%20Design.pdf) - Principles and paradigms for distributed systems
 
 ## Operating Systems
 
@@ -56,7 +57,6 @@ This repository is a collection of books that I have read or plan to read while 
 - [TCP-IP-Illustrated-Volume-1-The-Protocols](./TCP-IP-Illustrated-Volume-1-The-Protocols.pdf) - Detailed explanation of TCP/IP protocols
 - [TCP-IP-Illustrated-Volume-2-The-Implementation](./TCP-IP-Illustrated-Volume-2-The-Implementation.pdf) - Implementation aspects of TCP/IP
 - [Cryptography And Network Security-Principles And Practice-7th](./Cryptography%20And%20Network%20Security-Principles%20And%20Practice-7th.pdf) - William Stallings' security textbook
-- [Internet of Things\_ Architectures, Protocols and Standards](./Internet%20of%20Things_%20Architectures,%20Protocols%20and%20Standards.pdf) - IoT fundamentals
 
 ## Databases
 
@@ -79,10 +79,11 @@ This repository is a collection of books that I have read or plan to read while 
 - [Fullstack React](./Fullstack%20React.pdf) - Complete guide to modern React development
 - [Learning Node.js Development](./Learning%20Node.js%20Development.pdf) - Building server-side applications with Node.js
 
-## Other Topics
+## Hardware and Embedded Systems
 
-- [Distributed systems-Concepts and Design](./Distributed%20systems-Concepts%20and%20Design.pdf) - Principles and paradigms for distributed systems
 - [Raspberry_Pi_For_Beginners_6th_Edition](./Raspberry_Pi_For_Beginners_6th_Edition.pdf) - Getting started with Raspberry Pi
+- [Raspberry Beginner's Guide](./Raspberry%20Beginner’s%20Guide.pdf) - A beginner's guide to Raspberry Pi projects
+- [Internet of Things\_ Architectures, Protocols and Standards](./Internet%20of%20Things_%20Architectures,%20Protocols%20and%20Standards.pdf) - IoT fundamentals
 
 ## Usage
 
