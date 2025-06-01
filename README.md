@@ -12,7 +12,7 @@ This repository is a collection of books that I have read or plan to read while 
 - [Networks and Security](#networks-and-security) (6 books)
 - [Databases](#databases) (1 book)
 - [UNIX and Linux Systems](#unix-and-linux-systems) (9 books)
-- [Web and Mobile Development](#web-and-mobile-development) (2 books)
+- [Web and Mobile Development](#web-and-mobile-development) (3 books)
 - [Hardware and Embedded Systems](#hardware-and-embedded-systems) (3 book)
 
 ## Programming Languages
@@ -78,11 +78,12 @@ This repository is a collection of books that I have read or plan to read while 
 
 - [Fullstack React](./Fullstack%20React.pdf) - Complete guide to modern React development
 - [Learning Node.js Development](./Learning%20Node.js%20Development.pdf) - Building server-side applications with Node.js
+- [Mastering Ethereum](./Mastering%20Ethereum.pdf) - Building smart contracts Web3 applications with Ethereum/Solidity
 
 ## Hardware and Embedded Systems
 
 - [Raspberry_Pi_For_Beginners_6th_Edition](./Raspberry_Pi_For_Beginners_6th_Edition.pdf) - Getting started with Raspberry Pi
-- [Raspberry Beginner's Guide](./Raspberry%20Beginner’s%20Guide.pdf) - A beginner's guide to Raspberry Pi projects
+- [Raspberry Beginner's Guide](./Raspberry%20Pi%20Beginner's%20Guide.pdf) - A beginner's guide to Raspberry Pi projects
 - [Internet of Things\_ Architectures, Protocols and Standards](./Internet%20of%20Things_%20Architectures,%20Protocols%20and%20Standards.pdf) - IoT fundamentals
 
 ## Usage
