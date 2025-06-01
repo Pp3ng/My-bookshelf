@@ -57,6 +57,7 @@ This repository is a collection of books that I have read or plan to read while 
 - [TCP-IP-Illustrated-Volume-1-The-Protocols](./TCP-IP-Illustrated-Volume-1-The-Protocols.pdf) - Detailed explanation of TCP/IP protocols
 - [TCP-IP-Illustrated-Volume-2-The-Implementation](./TCP-IP-Illustrated-Volume-2-The-Implementation.pdf) - Implementation aspects of TCP/IP
 - [Cryptography And Network Security-Principles And Practice-7th](./Cryptography%20And%20Network%20Security-Principles%20And%20Practice-7th.pdf) - William Stallings' security textbook
+- [Cryptography in C and C++](./Cryptography%20in%20C%20and%20C++.pdf) - Practical cryptography in C/C++
 
 ## Databases
 
